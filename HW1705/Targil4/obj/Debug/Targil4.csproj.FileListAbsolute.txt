@@ -1,0 +1,10 @@
+C:\Users\Itay kan\source\repos\HW1705\Targil4\bin\Debug\Targil4.exe.config
+C:\Users\Itay kan\source\repos\HW1705\Targil4\bin\Debug\Targil4.exe
+C:\Users\Itay kan\source\repos\HW1705\Targil4\bin\Debug\Targil4.pdb
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.ProfileForm.resources
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.Properties.Resources.resources
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.csproj.GenerateResource.Cache
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.csproj.CoreCompileInputs.cache
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.exe
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.pdb
+C:\Users\Itay kan\source\repos\HW1705\Targil4\obj\Debug\Targil4.csprojResolveAssemblyReference.cache
